@@ -1,0 +1,20 @@
+{
+  "name": "select-share-place-ts",
+  "version": "1.0.0",
+  "description": "This repository contains the code for a select & share place application written in Typescript. Based on Understanding TypeScript Course by Maximilian Schwarzmüller.",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Carlos Eduardo B. Kessler",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.5",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  }
+}
